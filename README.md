@@ -4,7 +4,7 @@
 <h2>About Me</h2>
   
 - 👩🏻‍💻 I am a final year Computer Science Undergraduate at **[South Eastern Kenya University](https://seku.ac.ke)**
-- ☀️ Contributing to **[open-source projects](https://github.com/pulls?q=author%3Avatsalsinghkv+is%3Apr+)** (Open Source is always fun)
+- ☀️ I love solving problems through **code**
 - 🏃 In absolute love with **Backend & Frontend development**
     
 <h2>Domain of interests</h2>
