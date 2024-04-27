@@ -16,7 +16,7 @@
   
 <h2>Languages & Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,go,django,flask,selenium,git,postman mysql,postgres,sqlite,mongodb,redis" alt="programming languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,go,django,flask,git,postman mysql,postgres,sqlite,mongodb,redis" alt="programming languages" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind" alt="frameworks" />
