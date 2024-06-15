@@ -19,10 +19,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,go,django,flask,git,mysql,postgres,sqlite,mongodb,redis" alt="programming languages" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind" alt="frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="frameworks" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github, postman" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,github" alt="tools" />
 </p>  
     
 
