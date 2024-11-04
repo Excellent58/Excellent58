@@ -1,6 +1,5 @@
-### Hi there 
-<h1>Hi 👋, I'm Wycliffe Musau</h1>
-<h3>Passionate full stack developer with expertise in
+<h1 align="center">Hi 👋, I'm Wycliffe Musau</h1>
+<h3 align="center">Passionate full stack developer with expertise in
   front-end technologies  like HTML, CSS, and Javascript, and back-end technologies like Django, Gin and Flask. I am always eager to learn new things and take on new challenges in the tech world.
 </h3>
 
