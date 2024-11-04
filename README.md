@@ -20,20 +20,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/shadirmuhammedh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shadirmuhammedh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhammedhshadir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammedhshadir/" height="30" width="40" /></a>
+  <a href="https://x.com/wycliffe_musau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-        profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shadirmuhammedh" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/wycliffe-musau-22a77b28a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammedhshadir/" height="30" width="40" />
+  </a>
 </p>
   
 <h2>Languages & Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,go,django,flask,mysql,postgres,sqlite,mongodb,redis" alt="programming languages" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="frameworks" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,git" alt="tools" />
-</p>  
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,go,react,nextjs,tailwind,django,flask,mysql,postgres,sqlite,mongodb,redis,vscode,github,git" alt="programming languages" />
+</p> 
     
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Excellent58&label=Profile%20views&color=0ea5e9&style=flat" alt="Excellent58" /> </p>
