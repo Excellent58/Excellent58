@@ -1,10 +1,14 @@
-### Hi there 👋
+### Hi there 
+<h1>Hi 👋, I'm Wycliffe Musau</h1>
+<h3>Passionate full stack developer with expertise in
+  front-end technologies  like HTML, CSS, and Javascript, and back-end technologies like Django, Gin and Flask. I am always eager to learn new things and take on new challenges in the tech world.
+</h3>
 
 
 <h2>About Me</h2>
   
-- 👩🏻‍💻 I am a final year Computer Science Undergraduate at **[South Eastern Kenya University](https://seku.ac.ke)**
-- ☀️ I love solving problems through **code**
+- 👩🏻‍💻 I am Computer Science Undergraduate  at **[South Eastern Kenya University](https://seku.ac.ke)**
+- ☀️ I love solving problems by writing **code**
 - 🏃 In absolute love with **Backend & Frontend development**
     
 <h2>Domain of interests</h2>
@@ -13,6 +17,12 @@
 - 📱 Mobile Development
 - 👽 Cyber Security
 - 🦾 Artificial Intelligence
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/shadirmuhammedh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shadirmuhammedh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammedhshadir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammedhshadir/" height="30" width="40" /></a>
+</p>
   
 <h2>Languages & Tools</h2>
 <p align="center">
