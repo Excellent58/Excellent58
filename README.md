@@ -17,10 +17,11 @@
     
 <h2>Domain of interests</h2>
     
-- 💻 Full-stack Web Develppment
+- 💻 Web Develppment
 - 📱 Mobile Development
 - 👽 Cyber Security
 - 🦾 Artificial Intelligence
+- Blockchan
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,7 +32,7 @@
   
 <h2>Languages & Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,go,react,nextjs,tailwind,django,flask,mysql,postgres,sqlite,mongodb,redis,vscode,github,git" alt="programming languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,go,react,nextjs,tailwind,django,flask,mysql,postgres,sqlite,mongodb,redis,vscode,github,git" alt="programming languages" align="center"/>
 </p> 
     
 
