@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wycliffe Musau</h1>
-<h3 align="center">Passionate full stack developer with expertise in
-  front-end technologies  like HTML, CSS, and Javascript, and back-end technologies like Django, Gin and Flask. I am always eager to learn new things and take on new challenges in the tech world.
+<h3 align="center">I'm a passionate Software Developer with a knack for building websites, web applications, and systems from the ground up. With expertise in both front-end and back-end development, I enjoy crafting seamless user experiences and designing efficient, scalable systems.
 </h3>
 
 - 🔭 I’m open for freelance work and collaboration
