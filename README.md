@@ -29,7 +29,9 @@
 </p> 
     
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Excellent58&label=Profile%20views&color=0ea5e9&style=flat" alt="Excellent58" /> </p>
+<p align="center">🚀 Let’s connect and build something awesome!
+
+</p>
 <!--
 **Excellent58/Excellent58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
