@@ -22,6 +22,9 @@
 - Blockchan
 
 <h3 align="left">Connect with me:</h3>
+<p>I'm always excited to connect with fellow developers, collaborate on open-source projects, and explore freelance opportunities. If you're looking for a reliable developer to join your project, solve challenging problems, or simply exchange ideas, I'd love to hear from you!
+
+Feel free to reach out—let's build something amazing together and grow our skills along the way!</p>
   
 <h2>Languages & Tools</h2>
 <p align="center">
