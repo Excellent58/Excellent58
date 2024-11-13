@@ -5,13 +5,6 @@
 - 🔭 I’m open for freelance work and collaboration
 - 💬 Ask me about Javascript, Python, Golang, Typescript and web development
 - 📫 How to reach me: dm me on my socials down below
-
-
-<h2>About Me</h2>
-  
-- 👩🏻‍💻 I am Computer Science Undergraduate  at **[South Eastern Kenya University](https://seku.ac.ke)**
-- ☀️ I love solving problems by writing **code**
-- 🏃 In absolute love with **Backend & Frontend development**
     
 <h2>Domain of interests</h2>
     
