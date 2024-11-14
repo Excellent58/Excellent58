@@ -24,7 +24,7 @@ Feel free to reach out—let's build something amazing together and grow our ski
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,go,react,nextjs,tailwind,django,flask,mysql,postgres,sqlite,mongodb,redis,vscode,github,git" alt="programming languages" align="center"/>
 </p> 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Excellent58&show_icons=true&theme=gotham" alt="Excellent58" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Excellent58&show_icons=true&theme=react" alt="Excellent58" />
     
 
 <p align="center">🚀 Let’s connect and build something awesome!
