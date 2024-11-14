@@ -2,9 +2,9 @@
 <h3 align="center">I'm a passionate Software Developer with a knack for building websites, web applications, and systems from the ground up. With expertise in both front-end and back-end development, I enjoy crafting seamless user experiences and designing efficient, scalable systems.
 </h3>
 
-- 🔭 I’m open for freelance work and collaboration
-- 💬 Ask me about Javascript, Python, Golang, Typescript and web development
-- 📫 How to reach me: dm me on my socials down below
+<p>🔭 I’m open for freelance work and collaboration</p>
+<p>💬 Ask me about Javascript, Python, Golang, Typescript and web development</p>
+<p>📫 How to reach me: dm me on my socials down below</p>
     
 <h2>Domain of interests</h2>
     
