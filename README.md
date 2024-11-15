@@ -22,7 +22,7 @@ Feel free to reach out—let's build something amazing together and grow our ski
   <a href="https://www.linkedin.com/in/wycliffe-musau-22a77b28a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://x.com/wycliffe_musau">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
