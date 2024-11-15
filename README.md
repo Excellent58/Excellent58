@@ -19,11 +19,8 @@
 
 Feel free to reach out—let's build something amazing together and grow our skills along the way!</p>
 <div id="badges">
-  <a href="linkedin.com/in/wycliffe-musau-22a77b28a">
+  <a href="https://www.linkedin.com/in/wycliffe-musau-22a77b28a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
