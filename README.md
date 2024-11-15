@@ -18,6 +18,17 @@
 <p>I'm always excited to connect with fellow developers, collaborate on open-source projects, and explore freelance opportunities. If you're looking for a reliable developer to join your project, solve challenging problems, or simply exchange ideas, I'd love to hear from you!
 
 Feel free to reach out—let's build something amazing together and grow our skills along the way!</p>
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
   
 <h2>Languages & Tools</h2>
 <p align="center">
