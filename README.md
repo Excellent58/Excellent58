@@ -14,11 +14,9 @@ Feel free to reach out—let's build something amazing together and grow our ski
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://x.com/wycliffe_musau">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wycliffe-musau-22a77b28a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wycliffe_musau)
   
 <h2>Languages & Tools</h2>
 <p align="center">
