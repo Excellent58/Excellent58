@@ -7,6 +7,8 @@
 
 Feel free to reach out—let's build something amazing together and grow our skills along the way!. You can DM on my socials or email me at <span style="color:blue">wycliffemusau24@gmail.com</span>
 </p>
+
+<h2>Socials</h2>
 <div id="badges">
   <a href="https://www.linkedin.com/in/wycliffe-musau-22a77b28a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,13 +17,16 @@ Feel free to reach out—let's build something amazing together and grow our ski
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wycliffe-musau-22a77b28a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wycliffe_musau)
   
 <h2>Languages & Tools</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,go,react,nextjs,tailwind,django,flask,mysql,postgres,sqlite,mongodb,redis,vscode,github,git" alt="programming languages" align="center"/>
 </p> 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Excellent58&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="Excellent58" />
+<h2>Github stats</h2>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Excellent58&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Excellent58" />
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Excellent58&theme=dark&hide_border=false" alt="Excellent58" />    
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Excellent58&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Excellent58" />
 
