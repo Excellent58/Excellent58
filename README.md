@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wycliffe Musau</h1>
-<h3>I'm a passionate Software Developer with a knack for building websites, web applications, and systems from the ground up. With expertise in both front-end and back-end development, I enjoy crafting seamless user experiences and designing efficient, scalable systems.
+<h3>I'm a passionate Software Developer with a knack for building websites, web applications, and systems from the ground up. With expertise in both front-end and back-end development, I enjoy crafting efficient and scalable systems.
 </h3>
 
 <h3 align="left">Connect with me:</h3>
-<p>I'm always excited to connect with fellow developers, collaborate on open-source projects, and explore freelance opportunities. If you're looking for a reliable developer to join your project, solve challenging problems, or simply exchange ideas, I'd love to hear from you!
+<p>I'm always excited to connect with fellow developers, collaborate on projects, and explore freelance opportunities. If you're looking for a reliable developer to join your project, help solve challenging problems, or simply exchange ideas, I'd love to hear from you!
 
 Feel free to reach out—let's build something amazing together and grow our skills along the way!. You can DM on my socials or email me at <span style="color:blue">wycliffemusau24@gmail.com</span>
 </p>
