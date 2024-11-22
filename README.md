@@ -21,13 +21,9 @@ Feel free to reach out—let's build something amazing together and grow our ski
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,go,react,nextjs,tailwind,django,flask,mysql,postgres,sqlite,mongodb,redis,vscode,github,git" alt="programming languages" align="center"/>
 </p> 
 
-![](https://github-readme-stats.vercel.app/api?username=Excellent58&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Excellent58&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Excellent58&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Excellent58&theme=dark&hide_border=false" alt="Excellent58" />
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Excellent58&show_icons=true&theme=react" alt="Excellent58" />
-    
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Excellent58&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="Excellent58" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Excellent58&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Excellent58" />
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Excellent58&theme=dark&hide_border=false" alt="Excellent58" />    
 
 <p align="center">🚀 Let’s connect and build something awesome!
 
