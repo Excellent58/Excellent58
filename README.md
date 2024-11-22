@@ -24,6 +24,7 @@ Feel free to reach out—let's build something amazing together and grow our ski
 ![](https://github-readme-stats.vercel.app/api?username=Excellent58&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Excellent58&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Excellent58&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Excellent58&theme=dark&hide_border=false" alt="Excellent58" />
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Excellent58&show_icons=true&theme=react" alt="Excellent58" />
     
