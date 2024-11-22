@@ -14,7 +14,7 @@ Feel free to reach out—let's build something amazing together and grow our ski
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://x.com/wycliffe_musau">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X Badge"/>
   </a>
 </div>
   
