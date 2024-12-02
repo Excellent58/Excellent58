@@ -3,10 +3,10 @@
 </h4>
 
 <h3 align="left">Connect with me:</h3>
-<p>I'm always excited to connect with fellow developers, collaborate on projects, and explore freelance opportunities. If you're looking for a reliable developer to join your project, help solve challenging problems, or simply exchange ideas, I'd love to hear from you!
+<h4>I'm always excited to connect with fellow developers, collaborate on projects, and explore freelance opportunities. If you're looking for a reliable developer to join your project, help solve challenging problems, or simply exchange ideas, I'd love to hear from you!
 
 Feel free to reach out, let's build something amazing together and grow our skills along the way!. You can DM me on my socials or email me at <span style="color:blue">wycliffemusau24@gmail.com</span>
-</p>
+</h4>
 
 <h2>Socials</h2>
 <div id="badges">
