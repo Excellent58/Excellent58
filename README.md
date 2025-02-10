@@ -2,8 +2,6 @@
 <h4>I'm a passionate Software Developer with a knack for building websites, web applications, and systems from the ground up. With expertise in both front-end and back-end development, I enjoy crafting efficient and scalable systems.
 </h4>
 
-<p>Currently learning AI</p>
-
 <h3 align="left">Connect with me:</h3>
 <h4>I'm always excited to connect with fellow developers, collaborate on projects, and explore freelance opportunities. If you're looking for a reliable developer to join your project, help solve challenging problems, or simply exchange ideas, I'd love to hear from you!
 
