@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wycliffe Musau</h1>
-<h4>I'm a passionate Software Developer with a knack for building websites, web applications, and systems from the ground up. With expertise in both front-end and back-end development, I enjoy crafting efficient and scalable systems.
+<h4>I'm a passionate Software Developer with a knack for building websites, web applications, and systems from the scratch. With expertise in both front-end and back-end development, I enjoy crafting efficient and scalable systems.
 </h4>
 
 <h3 align="left">Connect with me:</h3>
